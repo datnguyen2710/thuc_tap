@@ -1,0 +1,315 @@
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EnvDTE.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\stdole.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.MSXML.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.xml
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fHoaDon.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\RdlCompile.cache
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\RdlCompile.compiled
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EnvDTE.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\stdole.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.MSXML.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.xml
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fHoaDon.resources
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\datng\Downloads\QuanLyQuanCafe (1) (1)\QuanLyQuanCafe (1)\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EnvDTE.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\stdole.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.MSXML.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.xml
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fHoaDon.resources
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\RdlCompile.cache
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\RdlCompile.compiled
+C:\Users\nhanm\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.SqlServer.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EnvDTE.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\stdole.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.MSXML.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.xml
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.SqlServer.xml
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fHoaDon.resources
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Thuc_tap_chuyen_mon\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
